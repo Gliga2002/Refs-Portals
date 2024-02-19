@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Handjet:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: radial-gradient(#186a5e, #053339);
+  color: #e1eeeb;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 60rem;
+  margin:2rem auto;
+  padding: 2rem;
+  background: radial-gradient(#0b201d, #021619);
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+}

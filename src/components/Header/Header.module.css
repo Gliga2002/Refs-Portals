@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-family: 'Handjet', monospace;
+  text-transform: uppercase;
+  color: #c1e2dd;
+  text-shadow: 0 0 4px rgba(35, 34, 34, 0.4);
+  font-size: 3.5rem;
+}
+
+header h1 span {
+  font-style: normal;
+  color: #00eeff;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: #c6f4f2;
+}
